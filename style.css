@@ -14,7 +14,7 @@ body {
 }
 
 .form-container div {
-    margin: 5px 0;
+    margin: 15%;
 }
 
 .limbs, .genders, .radios, #gender-block, #limbs-block {
@@ -29,15 +29,15 @@ body {
 
 .radios {
     width: 85%;
-    padding: 0 10px;
-    border: 1px solid #ced4da;
-    border-radius: 5px;
+    padding: 5 15px;
+    border: 4mm ridge rgba(211, 220, 50, .6);;
+    border-radius: 7px;
 }
 
 #send-btn {
     width: 95%;
-    background-color: #f14d34;
-    border-color: #f14d34;
+    background-color: #000000;
+    border-color: #008000;
 }
 
 #policy a {
@@ -45,7 +45,7 @@ body {
 }
 
 .form-container .form-control:focus {
-    outline: none !important;
+    outline: 1px solid #666;
     border: 1px solid #f14d34;
     box-shadow: 0 0 10px #f35b439a;
 }
