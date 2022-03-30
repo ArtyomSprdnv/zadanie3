@@ -30,7 +30,7 @@ body {
 .radios {
     width: 85%;
     padding: 5 15px;
-    border: 4mm ridge rgba(211, 220, 50, .6);;
+    border: 8mm ridge rgba(211, 220, 50, .6);;
     border-radius: 7px;
 }
 
