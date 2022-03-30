@@ -27,7 +27,7 @@
                     name="date" />
             </div>
             <div id="gender-block">
-                <span class="input-group-text block-title">Пол</span>
+                <span class="input-group-text block-title">Пол:</span>
                 <div class="radios">
                     <div class="male-radio">
                         <input class="form-check-input" type="radio" name="gender" value="m" />
@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div id="limbs-block">
-                <span class="input-group-text block-title">Конечности</span>
+                <span class="input-group-text block-title">Конечности:</span>
                 <div class="radios">
                     <div class="limbs-radio">
                         <input class="form-check-input" type="radio" name="limbs" value="1" />
@@ -73,7 +73,7 @@
             </div>
             <div class="form-check" id="policy">
                 <input class="form-check-input" type="checkbox" value="y" id="policy" name="policy" />
-                <label class="form-check-label" for="policy">Ознакомлен с <a href="./task3.html">политикой конфиденциальности</a>.</label>
+                <label class="form-check-label" for="policy">Ознакомлен с политикой конфиденциальности</a>.</label>
             </div>
             <button class="btn btn-primary" type="submit" id="send-btn">Отправить</button>
         </form>
