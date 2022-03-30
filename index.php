@@ -65,9 +65,9 @@ $bio = $_POST['bio'];
 $policy = $_POST['policy'];
 $powers = implode(',', $_POST['select']);
 
-$user = 'u47584';
-$pass = '3864156';
-$db = new PDO('mysql:host=localhost;dbname=u47584', $user, $pass, array(PDO::ATTR_PERSISTENT => true));
+$user = 'u47502';
+$pass = '8701243';
+$db = new PDO('mysql:host=localhost;dbname=u47502', $user, $pass, array(PDO::ATTR_PERSISTENT => true));
 
 // Подготовленный запрос. Не именованные метки.
 try {
