@@ -29,9 +29,9 @@ body {
 
 .radios {
     width: 85%;
-    padding: 5 15px;
+    padding: 0 10px;
     border: 8mm ridge rgba(211, 220, 50, .6);;
-    border-radius: 7px;
+    border-radius: 10px;
 }
 
 #send-btn {
