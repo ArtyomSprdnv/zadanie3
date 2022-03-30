@@ -14,11 +14,11 @@ body {
 }
 
 .form-container div {
-    margin: 15%;
+    margin: 3%;
 }
 
 .limbs, .genders, .radios, #gender-block, #limbs-block {
-    display: flex;
+
     justify-content: space-between;
     align-items: center;
 }
@@ -29,8 +29,8 @@ body {
 
 .radios {
     width: 100%;
-    padding: 0 20px;
-    border: 8mm ridge rgba(211, 220, 50, .6);;
+    padding: 0 90px;
+    border: 5mm ridge rgba(211, 220, 50, .6);;
     border-radius: 10px;
 }
 
